@@ -1,9 +1,7 @@
-Name: YOUR NAME HERE
+Name: Stefan Perkovic
 
-| Date    |  Time  |                                     Update |
-|:--------|:------:|-------------------------------------------:|
-| April 5 | 9-10pm | I tried to write abstract, efficient code. |
-|         |        |                                            |
+| Date        |     Time      |                                                                                                                                                                                                                                                                                                                                         Update |
+|:------------|:-------------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| February 24 | 10:45-12:00pm | I thought about approaches to how to solve the problem set with the people at my table. We discussed implementing a tabulation style approach where we have a 2D array with both of the strings that we're comparing on the axes. Then when we add letters and we find the solution to the problem before that letter was added to be dynamic. |
+|             |               |                                                                                                                                                                                                                                                                                                                                                |
 
-
-To add a new row to the table, click into a cell and then hit shift-enter.
